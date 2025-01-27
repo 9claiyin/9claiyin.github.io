@@ -1,0 +1,23 @@
+/* //主内容背景 */
+#body-wrap{
+  /* background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%) !important; */
+  background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+}
+
+
+/* 左上 */
+
+#random-banner{
+  background-image: url( "https://cdn.jsdelivr.net/gh/9claiyin/PIC@main/page/20250125020310111.webp"), linear-gradient(to right, #92fe9d 0%, #00c9ff 100%) !important;
+  background-size: 300px 300px, cover !important;
+  background-repeat: no-repeat !important;
+  }
+
+
+
+
+
+
+
+
+  
